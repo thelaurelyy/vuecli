@@ -11,3 +11,6 @@ npm-debug.log
 *.ntvs*
 *.njsproj
 *.sln
+
+#edit by yy
+package-lock.json
