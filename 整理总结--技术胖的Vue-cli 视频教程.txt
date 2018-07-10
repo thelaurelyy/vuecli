@@ -9,7 +9,11 @@ vue-cli教程（基于nodeJS，需安装node和npm）：
     （1）创建vuecli文件夹，在IDE中打开，并打开终端
     （2）全局安装vue-cli
         npm install vue-cli -g
-    （3）
+
+    （3）vue init <templateName> <projectName>
+
+    （4）输入项目名称，尽量不使用大写或者斜杠
+
 
 
 
