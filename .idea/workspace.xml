@@ -18,8 +18,8 @@
       <file leaf-file-name="整理总结--技术胖的Vue-cli 视频教程.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/整理总结--技术胖的Vue-cli 视频教程.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            <state relative-caret-position="182">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -378,12 +378,12 @@
       <workItem from="1531359268304" duration="6000" />
       <workItem from="1531362089960" duration="2759000" />
       <workItem from="1531443444384" duration="2352000" />
-      <workItem from="1531460432143" duration="6595000" />
+      <workItem from="1531460432143" duration="7866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29156000" />
+    <option name="totallyTimeSpent" value="30427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -823,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/整理总结--技术胖的Vue-cli 视频教程.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="182">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
         </state>
       </provider>
