@@ -21,7 +21,11 @@ vue-cli教程（基于nodeJS，需安装node和npm）
 
 
 第三讲  解读vue-cli的模板
-
+（1）webpack.base.conf.js    表明入口文件entry -> main.js
+（2）main.js                 引用APP的组件和router组件
+（3）App.vue                 主要有三部分：template、script、style，用到了router-view标签
+（4）router/index.js         引用了HelloWorld组件
+（5）components/HelloWorld   主要有三部分：template、script、style，注意在style标签中属性设置为scoped则样式仅作用于当前界面
 
 
 
